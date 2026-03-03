@@ -15,7 +15,7 @@ _**CursoemVideo**_
 - [ ] manteiga
   # Texto principal
 ***
-![Fatec SJC](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9BodbZAInRdfiz4HcZVDcWejSPXaluUpLqw&s
+![Fatec SJC](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9BodbZAInRdfiz4HcZVDcWejSPXaluUpLqw&s)
 
 [Meu GitHub](https://Arthurmdsilva.github.io) 
 
